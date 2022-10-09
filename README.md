@@ -52,5 +52,5 @@ loop = True                            #Set to true if you want it to automatica
 Now just open Watersort on your android device and run main.py!
 ## Screenshots
 
-![App Screenshot](https://github.com/41pha1/watersort-solving-bot/blob/main/screenshot.png width = 200)
+<img src="https://github.com/41pha1/watersort-solving-bot/blob/main/screenshot.png" alt="drawing" width="250"/>
 
