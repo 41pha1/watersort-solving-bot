@@ -52,5 +52,5 @@ loop = True                            #Set to true if you want it to automatica
 Now just open Watersort on your android device and run main.py!
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/41pha1/watersort-solving-bot/screenshot.png)
 
